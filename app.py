@@ -52,7 +52,7 @@ Esta calculadora estima o Gasto Energético Total (GET) com base em fórmulas re
   - Homens: (10 × peso) + (6.25 × altura) – (5 × idade) + 5
   - Mulheres: (10 × peso) + (6.25 × altura) – (5 × idade) – 161
 
-• Cunningham — Atletas
+• Katch-McArdle — Atletas
   - TMB = 370 + (21.6 × massa magra)
   (utilizada quando o usuário conhece a massa magra)
 
